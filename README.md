@@ -1,15 +1,15 @@
-# 🌱 Aykah
+# Smart Bin Aykah
 
 <p align="center">
   <img src="images/hero.jpg" width="700">
 </p>
 
 <h3 align="center">
-AI & IoT-Powered Smart Waste Management System
+Sustainable IoT-Powered Smart Waste Management System
 </h3>
 
 <p align="center">
-A research-driven sustainability project integrating Artificial Intelligence (AI), the Internet of Things (IoT), renewable energy, and intelligent sensing to promote smarter waste management.
+A research-driven sustainability project integrating the Internet of Things (IoT), renewable energy, and intelligent sensing to promote smarter waste management.
 </p>
 
 ---
@@ -20,19 +20,17 @@ Aykah is an interdisciplinary research and innovation project exploring how emer
 
 The system combines IoT-enabled sensing, real-time monitoring, an interactive LCD interface, LED indicators, air filtration, and solar-powered operation into an affordable smart waste management solution designed to encourage responsible waste disposal while improving operational efficiency.
 
-Originally developed as a scientific research project, Aykah reflects my interest in applying Artificial Intelligence and sustainable technologies to create practical, scalable solutions aligned with Saudi Vision 2030 and the United Nations Sustainable Development Goals (SDGs).
+Originally developed as a scientific research project, Aykah reflects my interest in applying sustainable technologies to create practical, scalable solutions aligned with Saudi Vision 2030 and the United Nations Sustainable Development Goals (SDGs).
 
 ---
 
 ## Research Highlights
 
-- 🤖 Artificial Intelligence & IoT Integration
-- ☀️ Solar-Powered Smart Bin
-- 📊 Community Study (222 Participants)
-- 🌍 Sustainability & Smart Cities
+- Green, cost-effective technologies 
+- Community study (222 Participants)
+- Sustainability & smart cities
 - 🏆 Young Researchers Award — UNCCD COP16
-- 📄 Research Paper
-- 💡 Innovation with ongoing Intellectual Property considerations
+- 💡 Innovation with ongoing Intellectual Property procedures
 
 ---
 
@@ -104,19 +102,6 @@ The completed prototype integrates sustainable engineering with intelligent tech
 
 ---
 
-# System Architecture
-
-The diagram below illustrates the high-level architecture of the Aykah system.
-
-<p align="center">
-<img src="images/architecture.png" width="700">
-</p>
-
-For a detailed explanation of the system architecture, see:
-
-📄 **docs/System-Architecture.md**
-
----
 
 # Research Methodology
 
@@ -151,16 +136,6 @@ The project contributes toward:
 
 ---
 
-# Publications
-
-📄 **Next-Gen Waste Management: A Novel Approach of Sustainable Cost-Effective Technological Innovations in Smart Bins**
-
-Available in:
-
-paper/Next-Gen Waste Management.pdf
-
----
-
 # Recognition
 
 🏆 Young Researchers Award — Modern Technologies
@@ -172,35 +147,28 @@ paper/Next-Gen Waste Management.pdf
 # Repository Structure
 
 ```
-Aykah
-├── paper/
+Aykah/
+│
+├── README.md
+├── LICENSE
+├── CITATION.cff
+│
+│
 ├── docs/
+│   ├── Abstract.md
+│   ├── Methodology.md
+│   ├── Survey-Results.md
+│   ├── Research-Impact.md
+│
 ├── images/
-├── media/
-└── README.md
+│   ├── concept-sketch.jpg
+│   ├── concept-render.png
+│   ├── skeleton.jpg
+│   ├── display.jpg
+│   ├── prototype-front.jpg
+
 ```
 
----
-
-# Intellectual Property
-
-This repository serves as the official public documentation of the Aykah project.
-
-Certain implementation details have intentionally been omitted due to ongoing research activities and intellectual property considerations.
-
-For more information, see:
-
-📄 **docs/Intellectual-Property.md**
-
----
-
-# Demo
-
-🎥 Demo video available in:
-
-media/demo.mp4
-
----
 
 # Citation
 
@@ -216,15 +184,6 @@ If you reference this work, please cite:
 
 Saudi Researcher & Innovator
 
-**Research Interests**
-
-- Artificial Intelligence
-- Environmental Sustainability
-- Smart Cities
-- Internet of Things (IoT)
-- Emerging Technologies
-
----
 
 # License
 
