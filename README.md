@@ -1,192 +1,91 @@
-# Smart Bin Aykah
+# Aykah · آيكة
+
+**A sustainable, IoT-powered smart waste management system**
+
+[![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)](https://www.raspberrypi.com/)
+[![Solar powered](https://img.shields.io/badge/Power-Solar-F5A623?style=flat)](#system)
+[![Award: UNCCD COP16](https://img.shields.io/badge/Award-UNCCD%20COP16-009EDB?style=flat)](#recognition)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0007--9887--0280-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-9887-0280)
 
 <p align="center">
-  <img src="images/hero.jpg" width="700">
+  <img src="images/prototype.jpg" width="420" alt="The Aykah smart bin prototype: a metal bin with a front disposal opening, three circular ports on the side and the Aykah leaf logo">
 </p>
-
-<h3 align="center">
-Sustainable IoT-Powered Smart Waste Management System
-</h3>
-
-<p align="center">
-A research-driven sustainability project integrating the Internet of Things (IoT), renewable energy, and intelligent sensing to promote smarter waste management.
-</p>
-
----
+<p align="center"><em>The Aykah prototype.</em></p>
 
 ## Overview
 
-Aykah is an interdisciplinary research and innovation project exploring how emerging technologies can address real-world environmental challenges through intelligent waste management.
+Aykah is a research and innovation project on how emerging technologies can address real environmental problems through intelligent waste management.
 
-The system combines IoT-enabled sensing, real-time monitoring, an interactive LCD interface, LED indicators, air filtration, and solar-powered operation into an affordable smart waste management solution designed to encourage responsible waste disposal while improving operational efficiency.
+The system combines IoT sensing, real-time monitoring, an interactive LCD interface, LED indicators, air filtration and solar-powered operation in an affordable smart bin. It is designed to encourage responsible waste disposal while making collection more efficient.
 
-Originally developed as a scientific research project, Aykah reflects my interest in applying sustainable technologies to create practical, scalable solutions aligned with Saudi Vision 2030 and the United Nations Sustainable Development Goals (SDGs).
+Aykah began as a scientific research project. It reflects my interest in applying sustainable technologies to practical, scalable solutions aligned with Saudi Vision 2030 and the United Nations Sustainable Development Goals (SDGs).
 
----
+## Highlights
 
-## Research Highlights
+- Green, cost-effective technologies at the core of the design
+- Community study with **222 participants**
+- Focus on sustainability and smart cities
+- Young Researchers Award (Modern Technologies) at UNCCD COP16
+- Intellectual property procedures in progress
 
-- Green, cost-effective technologies 
-- Community study (222 Participants)
-- Sustainability & smart cities
-- 🏆 Young Researchers Award — UNCCD COP16
-- 💡 Innovation with ongoing Intellectual Property procedures
+## System
 
----
+| Component | Role |
+| --- | --- |
+| Raspberry Pi | Controller for sensing, display and status logic |
+| Ultrasonic sensor | Distance sensing for real-time monitoring |
+| LCD interface | Shows information to the user |
+| LED status indicators | Signal the bin's state at a glance |
+| Solar panel | Powers the system for autonomous operation |
+| Air filtration | Filters the air around the bin |
 
-# Development Journey
+## Development
 
-## 1. Concept Design
+1. **Concept design.** A conceptual study of how intelligent technologies could improve waste management while staying affordable and sustainable.
+2. **Digital design.** The concept grew into a complete system design integrating sensing, renewable energy and user interaction.
+3. **Prototype construction.** The first physical build validated the structure before any electronics were added.
+4. **Electronics integration.** The controller, sensor, display, indicators, solar panel and air filtration were added in stages.
+5. **Final prototype.** The completed bin brings the structure and the electronics together as one working system.
 
-The project began as a conceptual study exploring how intelligent technologies could improve waste management while remaining affordable and sustainable.
+## Research methodology
 
-<p align="center">
-<img src="images/concept-sketch.jpg" width="500">
-</p>
+The project combines qualitative and quantitative methods:
 
----
+- Literature review
+- Prototype development
+- User-centred design
+- Community surveys
+- Prototype evaluation
+- Data analysis
 
-## 2. Digital Design
+A public survey of **222 participants** evaluated waste disposal behaviour, environmental awareness and public acceptance of smart waste technologies.
 
-The initial concept evolved into a complete smart waste management system integrating sensing, renewable energy, and user interaction.
+## Impact
 
-<p align="center">
-<img src="images/concept-render.png" width="600">
-</p>
+Aykah was developed to show how emerging technologies can improve urban sustainability through affordable, intelligent waste management. It contributes to:
 
----
+- **SDG 11:** Sustainable Cities and Communities
+- **SDG 12:** Responsible Consumption and Production
+- **SDG 13:** Climate Action
 
-## 3. Prototype Construction
+## Recognition
 
-The first physical prototype focused on validating the structural design before integrating electronic components.
+- **Young Researchers Award, Modern Technologies**, United Nations Convention to Combat Desertification (UNCCD) COP16, 2024
+- Featured in the [Saudi Gazette](https://saudigazette.com.sa/article/664214/saudi-arabia/how-curiosity-led-a-saudi-teenager-to-develop-a-un-award-winning-smart-waste-management-solution)
 
-<p align="center">
-<img src="images/skeleton.jpg" width="500">
-</p>
-
----
-
-## 4. Electronics Integration
-
-The system was progressively equipped with:
-
-- Raspberry Pi
-- Ultrasonic Sensor
-- LCD Interface
-- LED Status Indicators
-- Solar Panel
-- Air Filtration
-
-<p align="center">
-<img src="images/raspberry-pi.jpg" width="45%">
-<img src="images/solar-panel.jpg" width="45%">
-</p>
-
-<br>
-
-<p align="center">
-<img src="images/led-system.jpg" width="45%">
-<img src="images/display.jpg" width="45%">
-</p>
-
----
-
-## 5. Final Prototype
-
-The completed prototype integrates sustainable engineering with intelligent technologies to promote efficient waste management and environmental awareness.
-
-<p align="center">
-<img src="images/prototype-front.jpg" width="45%">
-<img src="images/prototype-side.jpg" width="45%">
-</p>
-
----
-
-
-# Research Methodology
-
-The project combines qualitative and quantitative research methods through:
-
-- Literature Review
-- Prototype Development
-- User-Centered Design
-- Community Surveys
-- Prototype Evaluation
-- Data Analysis
-
-A public survey involving **222 participants** was conducted to evaluate waste disposal behaviors, environmental awareness, and public acceptance of smart waste technologies.
-
-📄 Read more in **docs/Methodology.md**
-
-📄 Survey summary: **docs/Survey-Results.md**
-
----
-
-# Research Impact
-
-Aykah was developed to demonstrate how emerging technologies can improve urban sustainability through affordable and intelligent waste management.
-
-The project contributes toward:
-
-- SDG 11 — Sustainable Cities and Communities
-- SDG 12 — Responsible Consumption and Production
-- SDG 13 — Climate Action
-
-📄 Learn more in **docs/Research-Impact.md**
-
----
-
-# Recognition
-
-🏆 Young Researchers Award — Modern Technologies
-
-🌍 United Nations Convention to Combat Desertification (UNCCD COP16)
-
----
-
-# Repository Structure
-
-```
-Aykah/
-│
-├── README.md
-├── LICENSE
-├── CITATION.cff
-│
-│
-├── docs/
-│   ├── Abstract.md
-│   ├── Methodology.md
-│   ├── Survey-Results.md
-│   ├── Research-Impact.md
-│
-├── images/
-│   ├── concept-sketch.jpg
-│   ├── concept-render.png
-│   ├── skeleton.jpg
-│   ├── display.jpg
-│   ├── prototype-front.jpg
-
-```
-
-
-# Citation
+## Citation
 
 If you reference this work, please cite:
 
 > Almaktoum, N. F. (2025). *Next-Gen Waste Management: A Novel Approach of Sustainable Cost-Effective Technological Innovations in Smart Bins.*
 
----
+Citation metadata is in [`CITATION.cff`](CITATION.cff).
 
-# About the Author
+## Author
 
-## Nelly F. Almaktoum
+**Nelly F. Almaktoum**, Saudi researcher and innovator
+[GitHub](https://github.com/nelmkt) · [LinkedIn](https://www.linkedin.com/in/nelmkt/) · [ORCID](https://orcid.org/0009-0007-9887-0280)
 
-Saudi Researcher & Innovator
+## Licence
 
-
-# License
-
-© 2025 Nelly F. Almaktoum
-
-All Rights Reserved.
+© 2025 Nelly F. Almaktoum. All rights reserved.
