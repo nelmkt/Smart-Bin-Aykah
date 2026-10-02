@@ -77,7 +77,7 @@ Aykah was developed to show how emerging technologies can improve urban sustaina
 
 If you reference this work, please cite:
 
-> Almaktoum, N. F. (2025). *Next-Gen Waste Management: A Novel Approach of Sustainable Cost-Effective Technological Innovations in Smart Bins.*
+> Almaktoum, N. F. (2025). *Next-Gen Waste Management: A Novel Approach of Sustainable Cost-Effective Technological Innovations in Smart Bins.* Unpublished research project.
 
 Citation metadata is in [`CITATION.cff`](CITATION.cff).
 
