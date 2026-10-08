@@ -1,4 +1,4 @@
-# Aykah · آيكة
+# Aykah - آيكة
 
 **A sustainable, IoT-powered smart waste management system**
 
